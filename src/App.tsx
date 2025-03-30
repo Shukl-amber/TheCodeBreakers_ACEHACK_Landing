@@ -238,7 +238,7 @@ function App() {
               },
               {
                 name: "Enterprise",
-                price: "50",
+                price: "35",
                 description: "For large operations",
                 features: [
                   "Unlimited SKUs",
